@@ -31,7 +31,7 @@ This folder contains :
 
 ## Credits and Acknowledgements
 
-The first names and last names used to generate the synthetic datasets where scraped from :
+The original first names and last names used to generate the synthetic datasets were scraped from :
 
 * https://africa-facts.org
 * https://answersafrica.com
